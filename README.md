@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rsenoren
 - 👀 I’m interested in sportsand video games
 - 🌱 I’m currently learning CyberSecurity
-- 💞️ I’m looking to foward to work as a Security Analyst 
+- 💞️ I’m looking to foward to work in the Cybersecurity world 
 - 📫 How to reach me: rvsenoren@gmail.com
 
 <!---
